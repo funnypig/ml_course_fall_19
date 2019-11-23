@@ -1,0 +1,13 @@
+Training accuracy for perceptron:   0.8157
+Validation accuracy for perceptron: 0.7160
+Training accuracy for average perceptron:   0.9728
+Validation accuracy for average perceptron: 0.7980
+Training accuracy for Pegasos:                     0.9163
+Validation accuracy for Pegasos:                   0.8020
+Accuracy on the test set: 0.8120
+Most Explanatory Word Features
+['great', 'delicious', 'best', '!', 'perfect', 'glad', 'loves', 'love', 'excellent', 'wonderful']
+Try to remove stop words:
+Accuracy on the test set: 0.8080
+Try to count words:
+Accuracy on the test set: 0.7760
