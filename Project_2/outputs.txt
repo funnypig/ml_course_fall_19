@@ -1,0 +1,18 @@
+2.
+
+lambda_factor = 1
+Linear Regression test_error = 0.7697
+
+lambda_factor = 0.1
+Linear Regression test_error = 0.7698
+
+lambda_factor = 0.1
+Linear Regression test_error = 0.7702
+
+
+The loss function related to the closed-form solution is inadequate for this problem.
+
+3.
+SVM one vs. rest test_error: 0.9925
+Multiclass SVM test_error: 0.9183
+
