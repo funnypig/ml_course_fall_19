@@ -16,3 +16,6 @@ The loss function related to the closed-form solution is inadequate for this pro
 SVM one vs. rest test_error: 0.9925
 Multiclass SVM test_error: 0.9183
 
+4.
+softmax test_error= 0.10050000000000003
+
